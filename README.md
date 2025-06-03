@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🗿   My name is Savan J Saji, and I am currently a third-year undergraduate at<br> 
+🗿   My name is Savan J Saji, and I am currently a final-year undergraduate at<br> 
     the College of Engineering Trivandrum, where I am pursuing a Bachelor of Technology <br> 
  in 
      Applied Electronics & Instrumentation.<be>
